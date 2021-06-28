@@ -7,8 +7,8 @@ h1 {
   font-size: 55px;
 }
 h2 {
-  font-size: 30px;
-  font-weight: 600;
+  font-size: 35px;
+  font-weight: 550;
 }
 .high_textandimage {
   width: 40%;
@@ -32,4 +32,24 @@ section {
 }
 p {
   font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+}
+.Hire_me_button {
+  text-decoration: none;
+  background-image: linear-gradient(45deg, lightsalmon, tomato);
+  border-radius: 5px;
+  padding: 10px 40px;
+  color: white;
+  font-weight: 600;
+}
+.Dream {
+  font-size: 55px;
+  font-weight: bold;
+}
+h3 {
+  font-size: 35px;
+  font-weight: 550;
+}
+.highlight_dream {
+  color: blue;
 }
